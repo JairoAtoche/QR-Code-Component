@@ -14,9 +14,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![desktop](https://user-images.githubusercontent.com/44626985/167283655-24337631-31e8-487d-8afb-ece63756bc97.png)
-![phone](https://user-images.githubusercontent.com/44626985/167283657-61f0a9bd-1268-469e-92ed-a22c0cdcc34e.png)
+DESKTOP
+![desktop](https://user-images.githubusercontent.com/44626985/167283811-45a5d8fe-25ff-4b9c-97aa-55d53acb54a0.png)
+MOBILE
+![phone](https://user-images.githubusercontent.com/44626985/167283812-248cb59e-2f49-4b5a-ae6f-8416be0762ae.png)
 
 ### Links
 

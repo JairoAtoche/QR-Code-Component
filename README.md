@@ -15,8 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 DESKTOP
+
 ![desktop](https://user-images.githubusercontent.com/44626985/167283811-45a5d8fe-25ff-4b9c-97aa-55d53acb54a0.png)
 MOBILE
+
 ![phone](https://user-images.githubusercontent.com/44626985/167283812-248cb59e-2f49-4b5a-ae6f-8416be0762ae.png)
 
 ### Links
